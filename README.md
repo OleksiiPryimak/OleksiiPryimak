@@ -1,5 +1,5 @@
-Hi, I’m @OleksiiPryimak
-senior graphic designer & junior python developer
+Hi, I’m @OleksiiPryimak.
+I'm senior graphic designer & junior python developer.
 
 <!---
 OleksiiPryimak/OleksiiPryimak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

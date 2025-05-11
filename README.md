@@ -2,7 +2,7 @@
 
 <p>I'm graphic designer & python developer.</p>
 <p>20+ years experience in graphic design in industries such as e-commerce, art and architecture.</p>
-<p>For now I focus on applying data science and computer vision techniques to solve workflow and productivity problems.</p>
+<p>For now I focus on applying data analytics and computer vision techniques to solve workflow and productivity problems.</p>
 
 
 <!---
